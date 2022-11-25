@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/ad0d0172a184944991026c0bfd9a4942/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/ad0d0172a184944991026c0bfd9a4942/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/core-10.0.3.aar/ad0d0172a184944991026c0bfd9a4942/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
